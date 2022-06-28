@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource
+            name="jdbc/maBDD"
+            driverClassName="com.mysql.cj.jdbc.Driver"
+            type="javax.sql.DataSource"
+            url="jdbc:mysql://localhost:3306/maBDD"
+            username="root"
+            password="root"
+    />
+</Context>
